@@ -13,8 +13,8 @@ Currently, SHARE has two major research projects.
 **Nanomaterials for Energy and Water Management (NEW)** is a joint research project between HUJ and NTU, to develop **novel materials** and devices for three themes: printable energy materials and devices, energy modulation and storage systems for buildings, and materials and processes for energy-water nexus. This project aims to innovate advanced materials in pushing the scientific frontiers in energy harvesting, conservation and storage and meet the energy-water nexus needs through **innovative manufacturing processes.**
 
 ### **[Download the MMID Factsheet](/files/MMID%20Factsheet.pdf)**
-
+![](/images/Screenshot%202023-03-28%20194156.png)
 ### **[Download the NEW Factsheet](/files/NEW%20Factsheet.pdf)**
-
+![](/images/Screenshot%202023-03-28%20194306.png)
 **Publications**  
 [https://www.share-huj.edu.sg/research-publications](http://www.share-huj.edu.sg/research-publications)
