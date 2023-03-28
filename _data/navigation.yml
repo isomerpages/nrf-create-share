@@ -4,5 +4,5 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Share
-    collection: share
+  - title: About Share
+    collection: about-share
