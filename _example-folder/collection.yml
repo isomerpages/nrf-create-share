@@ -2,4 +2,4 @@ collections:
   example-folder:
     output: true
     order:
-      - folder-page.md
+      - Singapore HUJ Alliance for Research and Enterprise (SHARE).md
