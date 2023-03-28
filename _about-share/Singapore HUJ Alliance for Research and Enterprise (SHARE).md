@@ -3,6 +3,7 @@ title: Singapore HUJ Alliance for Research and Enterprise (SHARE)
 permalink: /share/singapore-huj-alliance-for-research-and-enterprise-share/
 description: ""
 ---
+![](/images/share-logo.png)
 SHARE was established in 2016 to advance and strengthen research collaborations between Israel and Singapore. SHARE serves as an intellectual hub for  research, scholarship, entrepreneurship and postgraduate/postdoctoral training, bringing together leading scientists from both countries to tackle major global challenges . It is the only international research center of The Hebrew University of Jerusalem outside of Israel.
 
 Currently, SHARE has two major research projects.
