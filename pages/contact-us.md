@@ -22,5 +22,5 @@ contacts:
       - phone: ""
       - email: rajes.kumar@share-huj.com
       - other: ""
-    title: "Contact Us: Mr Rajes Kumar"
+    title: Mr Rajes Kumar
 ---
