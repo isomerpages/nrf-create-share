@@ -15,3 +15,6 @@ Currently, SHARE has two major research projects.
 ### **[Download the MMID Factsheet](/files/MMID%20Factsheet.pdf)**
 
 ### **[Download the NEW Factsheet](/files/NEW%20Factsheet.pdf)**
+
+**Publications**  
+[https://www.share-huj.edu.sg/research-publications](http://www.share-huj.edu.sg/research-publications)
