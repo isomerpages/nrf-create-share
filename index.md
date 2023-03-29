@@ -14,6 +14,5 @@ sections:
       key_highlights:
         - title: About SHARE
           description: ""
-          url: /share/singapore-huj-alliance-for-research-and-enterprise-share/
+          url: /about-create/research-centres/nus-huj-create/
 ---
-
