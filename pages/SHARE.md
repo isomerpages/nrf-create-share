@@ -16,5 +16,20 @@ Currently, SHARE has two major research projects.
 ![](/images/Screenshot%202023-03-28%20194156.png)
 ### **[Download the NEW Factsheet](/files/NEW%20Factsheet.pdf)**
 ![](/images/Screenshot%202023-03-28%20194306.png)
+
+**Contact Us**  
+Mr Rajes Kumar  
+Email: [rajes.kumar@share-huj.com](mailto:tcliff@share-huj.com)
+
+**Website**  
+[https://www.share-huj.com/](https://www.share-huj.edu.sg/)
+
+**Where to Find Us**
+
+1 CREATE Way,  
+Innovation Wing #03-09  
+Singapore 138602
+
+
 **Publications**  
 [https://www.share-huj.edu.sg/research-publications](http://www.share-huj.edu.sg/research-publications)
