@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       title: SHARE
-      subtitle: Singapore-HUJ Alliance for Research and Enterprise
+      subtitle: Hero subtitle
       background: /images/hero-banner.png
       key_highlights:
-        - title: About SHARE
+        - title: ""
           description: ""
-          url: /about-create/research-centres/nus-huj-create/
+          url: ""
 ---
