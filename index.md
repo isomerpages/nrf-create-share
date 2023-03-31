@@ -8,10 +8,12 @@ notification: ""
 sections:
   - hero:
       title: SHARE
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/share-logo.png
       key_highlights:
-        - title: ""
+        - title: Click here for CREATE Home Page
           description: ""
-          url: ""
+          url: https://staging.d1q14glctguzyi.amplifyapp.com/
+        - title: About SHARE
+          description: ""
+          url: /about-create/research-centres/nus-huj-create/
 ---
