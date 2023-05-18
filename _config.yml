@@ -1,6 +1,6 @@
 title: SHARE
 url: https://share.create.edu.sg
-favicon: /images/favicon.ico
+favicon: /images/share-logo.png
 colors:
   primary-color: "#800000"
   secondary-color: "#4372d6"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
